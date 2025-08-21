@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "name": "E-commerce Dashboard",
+    "slug": "ecommerce-dashboard",
+    "stack": ["Next.js", "TypeScript", "Tailwind CSS", "Prisma"],
+    "coverImage": "/placeholder.svg?height=300&width=400",
+    "projectUrl": "https://dashboard-demo.vercel.app",
+    "githubUrl": "https://github.com/user/ecommerce-dashboard",
+    "summary": "A comprehensive e-commerce dashboard built with Next.js and TypeScript. Features real-time analytics, inventory management, and order processing capabilities.\n\n## Key Features\n- Real-time sales analytics\n- Inventory tracking\n- Order management\n- Customer insights\n- Mobile-responsive design",
+    "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+  },
+  {
+    "id": "2",
+    "name": "Task Management App",
+    "slug": "task-management-app",
+    "stack": ["React", "Node.js", "MongoDB", "Express"],
+    "coverImage": "/placeholder.svg?height=300&width=400",
+    "githubUrl": "https://github.com/user/task-manager",
+    "summary": "A collaborative task management application with drag-and-drop functionality and real-time updates.\n\n## Features\n- Kanban board interface\n- Real-time collaboration\n- File attachments\n- Due date tracking"
+  },
+  {
+    "id": "3",
+    "name": "Weather Forecast Widget",
+    "slug": "weather-widget",
+    "stack": ["Vue.js", "JavaScript", "CSS3"],
+    "coverImage": "/placeholder.svg?height=300&width=400",
+    "projectUrl": "https://weather-widget-demo.netlify.app",
+    "summary": "A responsive weather widget that displays current conditions and 7-day forecasts with beautiful animations."
+  }
+]
